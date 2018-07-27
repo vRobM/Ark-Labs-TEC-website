@@ -34,8 +34,8 @@ economy:
   lowerText: >-
     Just as web based start ups began in coffee shops offering free wifi, the
     new collar industry of engineering start ups requires access to the tools
-    found in today’s makerspaces. Maker’s Ark token connects Makers to the
-    technology.
+    found in today’s makerspaces. The Maker’s Ark token connects Makers to the
+    technology and services.
   title: Repairing The Global Maker Economy
   upperText: >-
     There are many components to invention.
@@ -74,10 +74,10 @@ product:
     Makers Ark is partnered with TheShop.Build Maker Spaces located in San
     Francisco and San Jose. Each location will accept Makers Ark as well as
     Bitcoin, Ethereum, Litecoin, and Ark. From State of the Art Laser Cutters to
-    3D Printers TheShop.Build offers inventors and entrepreneurs endless
+    3D Printers, TheShop.Build offers inventors and entrepreneurs endless
     opportunities with their products. For those who are new to Maker Spaces,
-    The Shop.Build offers a revolutionary training system that is changing the
-    traditional system for students, educators, and makers alike.
+    The Shop.Build offers a revolutionary training system that is leapfrogging
+    the traditional system for students, educators, and makers alike.
   logo: /img/the-shop.svg
   panels:
     - image: /img/company-1.png
