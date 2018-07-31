@@ -134,7 +134,7 @@ company:
         There is a moment in the life of any aspiring astronomer that it is time
         to buy that first telescope. It’s exciting to think about setting.
       title: Great Team Collaboration 3
-  title: Why work with ArkLabs
+  title: Why work with Ark Labs
 dpos:
   backgroundImage: /img/blockchain.png
   body: >-
