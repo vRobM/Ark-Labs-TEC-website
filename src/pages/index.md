@@ -82,6 +82,7 @@ product:
     - image: /img/company-3.png
       text: build...
       url: '#test'
+  productSubtitle: Accepted In Brick & Mortar Maker Spaces
   title: The Nations Leading Marketplace
 perks:
   columns:
