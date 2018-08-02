@@ -15,7 +15,7 @@ economy:
     background: '#d6e600'
     children: Download WhitePaper
     color: '#333'
-    href: '#download'
+    href: /img/favicon.ico
   columns:
     - body: >-
         50,000 manufacturing factories have closed due to trade deals in the
@@ -82,7 +82,7 @@ product:
     - image: /img/company-3.png
       text: build...
       url: '#test'
-  subtitle: "Accepted In Brick & Mortar Maker Spaces"
+  subtitle: Accepted In Brick & Mortar Maker Spaces
   title: The Nations Leading Marketplace
 perks:
   columns:
@@ -265,3 +265,4 @@ contact:
   title: Contact Us
 copyright: © 2018  Copyrights are Creative Commons
 ---
+
