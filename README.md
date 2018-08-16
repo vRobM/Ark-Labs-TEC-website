@@ -1,5 +1,9 @@
 # Ark Labs Landing Page
 
+Ark Labs developed a Token Exchange Campaign (TEC) website for the Ark Ecosystem, hosting Ark based projects and their Initial Coin Offering (ICO) as a TEC. For more information contact Ark Labs at https://arklabs.us
+
+## Code
+
 This repo contains an application that is built with [Gatsby](https://www.gatsbyjs.org/), and [Netlify CMS](https://www.netlifycms.org): **[Demo Link](https://gatsby-netlify-cms.netlify.com/)**.
 It follows the [JAMstack architecture](https://jamstack.org) by using Git as a single source of truth, and [Netlify](https://www.netlify.com) for continuous deployment, and CDN distribution.
 
